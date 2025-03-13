@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm amine</h1>
-<h3 align="center">A passionate IT Student from Tunisia</h3>
+<h1 align="left">Hi 👋, I'm amine</h1>
+<h3 align="left">A passionate IT Student from Tunisia</h3>
 
 - 📫 How to reach me **bouhlel.dev@gmail.com**
 
