@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm amine</h1>
 <h3 align="center">A passionate IT Student from Tunisia</h3>
 
+  
+-🔭 I’m currently working on **An AI Powered Calorie Tracking mobile app**
+
 - 📫 How to reach me **bouhlel.dev@gmail.com**
 
 - ⚡ Fun fact **I speak 4 languages (arabic, english, french and german)**
+  
 
 <h3 align="left">🌐Connect with me:</h3>
 <p align="left">
