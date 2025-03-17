@@ -4,7 +4,7 @@
 - 📫 How to reach me **bouhlel.dev@gmail.com**
 - 🔭 I’m currently working on **An AI Powered Calorie Tracking mobile app**
 
-- ⚡ Fun fact **I speak 4 languages (arabic, english, french and german)**
+- ⚡ Fun fact **I speak 4 languages (arabic, english, french and learning german)**
   
 
 <h3 align="left">🌐Connect with me:</h3>
