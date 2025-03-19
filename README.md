@@ -6,8 +6,7 @@
 
 - ⚡ Fun fact **I speak 4 languages (arabic, english, french and learning german)**
 
-<!--Replace <username> with your own GitHub username.-->
-https://pixel-profile.vercel.app/api/github-stats?username=<bouhlel-dev>
+
 
   
 
