@@ -6,12 +6,7 @@
 
 - ⚡ Fun fact **I speak 4 languages (arabic, english, french and learning german)**
 
-<picture decoding="async" loading="lazy">
-  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=<username>&theme=summer">
-  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=<username>&screen_effect=true&theme=blue_chill">
-  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=<bouhlel-dev>&theme=summer">
-</picture>
-  
+<img alt="github"  src"https://pixel-profile-ui.vercel.app/api/github-stats?username=imhalid&screen_effect=true&include_all_commits=true&pixelate_avatar=true&background=linear-gradient%280deg%2C+%239babb2FF+0%25%2C+%232e222fFF+100%25%29+&color=%23ffffffFF&hide=stars%2Crank"/>
 
   
 
