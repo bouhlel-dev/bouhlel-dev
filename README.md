@@ -2,7 +2,7 @@
 <h3 align="center">A passionate IT Student from Tunisia</h3>
 
 - 📫 How to reach me **bouhlel.dev@gmail.com**
-- 🔭 I’m currently working on **An AI Powered Calorie Tracking mobile app**
+- 🔭 I’m currently working on **An AI Powered Calorie Tracking mobile app using computer vision**
 
 - ⚡ Fun fact **I speak 4 languages (arabic, english, french and learning german)**
 
