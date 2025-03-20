@@ -5,6 +5,7 @@
 - 🔭 I’m currently working on **An AI Powered Calorie Tracking mobile app using computer vision**
 
 - ⚡ Fun fact **I speak 4 languages (arabic, english, french and learning german)**
+- cups of coffee : 473
 
 
 
