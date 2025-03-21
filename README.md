@@ -7,7 +7,9 @@
 - ⚡ Fun fact **I speak 4 languages (arabic, english, french and learning german)**
 - cups of coffee : 473
 
-
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3J1ZzJqbTlzbHF2a3h6dGlzZjkyd2xva2M2bHZ3bGozbzlta2M3ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" />
+</p>
 
   
 
