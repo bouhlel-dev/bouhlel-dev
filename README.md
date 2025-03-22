@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **bouhlel.dev@gmail.com**
 - 🔭 I’m currently working on **An AI Powered Calorie Tracking mobile app using computer vision**
-
+- 🔭 looking into how i can build a simple operating system as well as a simple shell in c , through learning the inner workings of a kernel.
 - ⚡ Fun fact **I speak 4 languages (arabic, english, french and learning german)**
 - cups of coffee : 473
 
