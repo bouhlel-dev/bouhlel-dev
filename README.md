@@ -2,6 +2,7 @@
 <h3>A passionate IT Student from Tunisia</h3>
 
 - 📫 How to reach me **bouhlel.dev@gmail.com**
+- chekout my portfolio: <a href="ameendev.42web.io">click here</a>
 - looking into how i can build a simple http server to better my understanding of backend related projects.
 - i speak 4 languages(btw)
 - cups of coffee : 573
