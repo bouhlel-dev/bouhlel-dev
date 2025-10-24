@@ -4,6 +4,7 @@
 - 📫 How to reach me **bouhlel.dev@gmail.com**
 - chekout my portfolio: <a href="https://ameendev.42web.io" target="_blank">click here</a>
 - looking into how i can build a simple http server to better my understanding of backend related projects.
+- i use arch(btw)
 - i speak 4 languages(btw)
 - cups of coffee : 573
  <p align="left">
