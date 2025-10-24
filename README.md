@@ -5,18 +5,19 @@
 - looking into how i can build a simple http server to better my understanding of backend related projects.
 - i speak 4 languages(btw)
 - cups of coffee : 573
+<a href="https://linkedin.com/in/ahmed-amine-bouhlel-b628442a5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-amine-bouhlel-b628442a5" height="30" width="40" /></a>
 
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3J1ZzJqbTlzbHF2a3h6dGlzZjkyd2xva2M2bHZ3bGozbzlta2M3ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" /> 
 </p>
 
-<p align-items="left">
-<h3>🌐Connect with me: </h3>
-<a href="https://linkedin.com/in/ahmed-amine-bouhlel-b628442a5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-amine-bouhlel-b628442a5" height="30" width="40" /></a>
+
+<p align="center">
+  
+  ![](https://nirzak-streak-stats.vercel.app/?user=bouhlel-dev&theme=light&hide_border=false)
+  
 </p>
 
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=bouhlel-dev&theme=light&hide_border=false)
 
 
 
