@@ -1,9 +1,9 @@
 
-
-  <img src="https://github.com/user-attachments/assets/008385a4-cb5b-46d0-b730-aed0547e59f2" alt="Fallout GIF" style="width:auto; height:auto" />
-
 <!-- Greeting -->
 <h2 align="center">I am Ahmed Amine Bouhlel</h2>
+  <img src="https://github.com/user-attachments/assets/008385a4-cb5b-46d0-b730-aed0547e59f2" alt="Fallout GIF" style="width:auto; height:auto" />
+
+
 
 
 
