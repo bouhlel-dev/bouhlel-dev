@@ -26,7 +26,6 @@
 <h3 align="left">💫 About Me</h3>
 <p>
   🌱 I am currently working on and developing my programming skills.<br>
-  🔭 I worked on .NET Framework and have experience in ASP.NET MVC.<br>
   ⚡ Interest in DS/AI/ML, Automation, etc.<br>
    - i use arch(btw)</br>
    - i speak 4 languages(btw)</br>
