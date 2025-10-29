@@ -32,7 +32,6 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/ahmed-amine-bouhlel" target="_blank"><img width="55px" src="https://github.com/user-attachments/assets/54de2308-717f-4627-8474-6b430a092dc7" alt="Portfolio" /></a>
   <a href="https://ameendev.42web.io" target="_blank"><img width="55px" src="https://github.com/user-attachments/assets/94521f47-321e-41c2-aad2-b617d5d427db" alt="LinkedIn" /></a>
-  <a href="https://open.spotify.com/playlist/4FMOBw7eopNczgfzspCvIP" target="_blank"><img width="55px" src="https://github.com/user-attachments/assets/2cfe0974-5631-4da7-92d2-52412176c561" alt="Spotify" /></a>
 </div>
 
 <br/>
