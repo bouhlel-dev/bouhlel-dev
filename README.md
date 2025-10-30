@@ -17,7 +17,7 @@
     <img alt="Followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/bouhlel-dev?style=for-the-badge&label=Followers&color=5e81ac&logo=github" /></a>
 </div>
 
-<img align="right" alt="coding-gif" width="500" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3J1ZzJqbTlzbHF2a3h6dGlzZjkyd2xva2M2bHZ3bGozbzlta2M3ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" /> 
+<img align="right" alt="coding-gif" width="500" src="https://github.com/user-attachments/assets/e1d64b30-1b8d-421a-941f-115dca796c52" /> 
 <!-- About Me -->
 <h3 align="left">💫 About Me</h3>
 <p>
@@ -50,7 +50,7 @@
 
 
 <!-- Ending -->
-  <img src="https://github.com/user-attachments/assets/af223254-c723-4499-a477-257c389d8670" alt="Wall-E GIF" style="width:auto; height:auto" />
+  <img src="https://github.com/user-attachments/assets/6a2e0d47-00cf-4b8b-8aa8-189ab086997f" alt="Wall-E GIF" style="width:auto; height:auto" />
 
 
 
