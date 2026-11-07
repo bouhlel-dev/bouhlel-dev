@@ -1,63 +1,73 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 900 220" width="900" height="220">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 900 260" width="900" height="260">
   <defs>
-    <linearGradient id="water" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#2e3440"/>
-      <stop offset="1" stop-color="#3b4252"/>
-    </linearGradient>
-
-    <g id="koi">
-      <!-- tail -->
-      <g>
-        <animateTransform attributeName="transform" type="rotate" values="-14 -30 0;14 -30 0;-14 -30 0" dur="1.2s" repeatCount="indefinite"/>
-        <path d="M-30 0 C-45 -14 -62 -12 -68 -20 C-60 -6 -60 6 -68 20 C-62 12 -45 14 -30 0Z" fill="#d08770" opacity=".85"/>
-      </g>
-      <!-- fins -->
-      <ellipse cx="14" cy="-13" rx="9" ry="4" fill="#d08770" opacity=".8" transform="rotate(-25 14 -13)"/>
-      <ellipse cx="14" cy="13" rx="9" ry="4" fill="#d08770" opacity=".8" transform="rotate(25 14 13)"/>
-      <!-- body -->
-      <path d="M44 0 C32 -15 -10 -17 -32 -4 C-36 -2 -36 2 -32 4 C-10 17 32 15 44 0Z" fill="#eceff4"/>
-      <!-- patches -->
-      <path d="M20 -9 C8 -13 -6 -12 -12 -6 C-4 -2 10 -3 20 -9Z" fill="#d08770"/>
-      <path d="M-8 4 C-16 8 -24 6 -28 2 C-22 0 -14 0 -8 4Z" fill="#bf616a"/>
-      <circle cx="30" cy="-2" r="4" fill="#2e3440" opacity=".8"/>
-      <!-- eyes -->
-      <circle cx="36" cy="-7" r="2" fill="#2e3440"/>
-      <circle cx="36" cy="7" r="2" fill="#2e3440"/>
+    <g id="koi" fill="none" stroke="#88c0d0" stroke-width="1.4" stroke-linejoin="round" stroke-linecap="round">
+      <!-- pelvic fins -->
+      <path d="M-12,14 C-16,20 -24,24 -30,24 C-26,18 -22,14 -20,13">
+        <animateTransform attributeName="transform" type="rotate" values="0 -12 14;12 -12 14;0 -12 14" dur="2.4s" repeatCount="indefinite"/>
+      </path>
+      <path d="M-12,-14 C-16,-20 -24,-24 -30,-24 C-26,-18 -22,-14 -20,-13">
+        <animateTransform attributeName="transform" type="rotate" values="0 -12 -14;-12 -12 -14;0 -12 -14" dur="2.4s" repeatCount="indefinite"/>
+      </path>
+      <!-- pectoral fins -->
+      <path d="M30,13 C24,24 12,32 2,34 C8,26 14,20 20,14">
+        <animateTransform attributeName="transform" type="rotate" values="0 30 13;-14 30 13;0 30 13" dur="2.4s" repeatCount="indefinite"/>
+      </path>
+      <path d="M30,-13 C24,-24 12,-32 2,-34 C8,-26 14,-20 20,-14">
+        <animateTransform attributeName="transform" type="rotate" values="0 30 -13;14 30 -13;0 30 -13" dur="2.4s" repeatCount="indefinite"/>
+      </path>
+      <!-- body + tail (flexes side to side) -->
+      <path d="M64,0 C58,-9 40,-16 14,-16 C-14,-16 -40,-9 -58,-3 C-70,-6 -86,-20 -104,-26 C-100,-12 -96,-4 -92,0 C-96,4 -100,12 -104,26 C-86,20 -70,6 -58,3 C-40,9 -14,16 14,16 C40,16 58,9 64,0Z">
+        <animate attributeName="d" dur="2.4s" repeatCount="indefinite" calcMode="spline" keyTimes="0;.5;1" keySplines=".45 0 .55 1;.45 0 .55 1"
+          values="M64,0 C58,-9 40,-16 14,-16 C-14,-18 -40,-14 -58,-12 C-70,-15 -86,-29 -104,-35 C-100,-21 -96,-13 -92,-9 C-96,-5 -100,3 -104,17 C-86,11 -70,-3 -58,-6 C-40,4 -14,14 14,16 C40,16 58,9 64,0Z;
+                  M64,0 C58,-9 40,-16 14,-16 C-14,-14 -40,-4 -58,6 C-70,3 -86,-11 -104,-17 C-100,-3 -96,5 -92,9 C-96,13 -100,21 -104,35 C-86,29 -70,15 -58,12 C-40,14 -14,18 14,16 C40,16 58,9 64,0Z;
+                  M64,0 C58,-9 40,-16 14,-16 C-14,-18 -40,-14 -58,-12 C-70,-15 -86,-29 -104,-35 C-100,-21 -96,-13 -92,-9 C-96,-5 -100,3 -104,17 C-86,11 -70,-3 -58,-6 C-40,4 -14,14 14,16 C40,16 58,9 64,0Z"/>
+      </path>
+      <!-- markings -->
+      <path d="M24,-8 C10,-13 -6,-11 -12,-5 C-4,-1 12,-2 24,-8Z" opacity=".8"/>
+      <path d="M-6,5 C-14,9 -24,7 -30,2 C-24,0 -14,0 -6,5Z" opacity=".8"/>
+      <path d="M36,-12 C32,-6 32,6 36,12" opacity=".7"/>
+      <!-- eyes + whiskers -->
+      <circle cx="47" cy="-9" r="2.5"/>
+      <circle cx="47" cy="9" r="2.5"/>
+      <path d="M62,-3 C68,-6 72,-5 74,-2 M62,3 C68,6 72,5 74,2" opacity=".8"/>
     </g>
   </defs>
 
-  <rect width="900" height="220" rx="14" fill="url(#water)"/>
+  <rect width="900" height="260" rx="14" fill="#2e3440"/>
 
   <!-- ripples -->
-  <g fill="none" stroke="#88c0d0" stroke-width="1.5">
-    <circle cx="200" cy="150" r="4">
-      <animate attributeName="r" values="4;40" dur="4s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values=".6;0" dur="4s" repeatCount="indefinite"/>
+  <g fill="none" stroke="#88c0d0" stroke-width="1" opacity=".5">
+    <circle cx="190" cy="190" r="4">
+      <animate attributeName="r" values="4;45" dur="5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values=".8;0" dur="5s" repeatCount="indefinite"/>
     </circle>
-    <circle cx="700" cy="70" r="4">
-      <animate attributeName="r" values="4;40" dur="5s" begin="1.5s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values=".6;0" dur="5s" begin="1.5s" repeatCount="indefinite"/>
+    <circle cx="720" cy="80" r="4">
+      <animate attributeName="r" values="4;45" dur="6s" begin="2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values=".8;0" dur="6s" begin="2s" repeatCount="indefinite"/>
     </circle>
   </g>
 
-  <!-- lily pads -->
-  <g fill="#a3be8c">
-    <path d="M120 60 a22 22 0 1 0 22 22 L120 82Z" opacity=".9"/>
-    <path d="M760 150 a18 18 0 1 0 18 18 L760 168Z" opacity=".9"/>
+  <!-- lily pads (outline) -->
+  <g fill="none" stroke="#a3be8c" stroke-width="1.2" opacity=".7">
+    <path d="M110 55 a24 24 0 1 0 24 24 L110 79Z"/>
+    <path d="M780 190 a18 18 0 1 0 18 18 L780 208Z"/>
   </g>
-  <circle cx="132" cy="72" r="4" fill="#b48ead"/>
 
   <!-- koi 1 -->
   <g>
-    <use href="#koi" xlink:href="#koi"/>
-    <animateMotion dur="26s" repeatCount="indefinite" rotate="auto"
-      path="M450 40 C700 40 850 90 850 110 C850 150 700 190 450 180 C200 190 50 150 50 110 C50 70 200 40 450 40Z"/>
+    <g transform="scale(.9)"><use href="#koi" xlink:href="#koi"/></g>
+    <animateMotion dur="30s" repeatCount="indefinite" rotate="auto"
+      path="M450,50 C720,40 830,90 830,130 C830,180 700,215 450,210 C200,215 70,180 70,130 C70,90 180,40 450,50Z"/>
   </g>
 
-  <!-- koi 2 (smaller, opposite side of the pond) -->
+  <!-- koi 2 -->
   <g>
-    <g transform="scale(.7)"><use href="#koi" xlink:href="#koi"/></g>
-    <animateMotion dur="32s" begin="-16s" repeatCount="indefinite" rotate="auto"
-      path="M450 40 C700 40 850 90 850 110 C850 150 700 190 450 180 C200 190 50 150 50 110 C50 70 200 40 450 40Z"/>
+    <g transform="scale(.6)"><use href="#koi" xlink:href="#koi"/></g>
+    <animateMotion dur="36s" begin="-18s" repeatCount="indefinite" rotate="auto"
+      path="M450,50 C720,40 830,90 830,130 C830,180 700,215 450,210 C200,215 70,180 70,130 C70,90 180,40 450,50Z"/>
   </g>
+
+  <!-- title (drawn on top, so the koi swim behind it) -->
+  <text x="450" y="125" text-anchor="middle" font-family="'Fira Code', 'SF Mono', Consolas, monospace" font-size="38" font-weight="700" fill="#eceff4">Ahmed Amine Bouhlel</text>
+  <text x="450" y="158" text-anchor="middle" font-family="'Fira Code', 'SF Mono', Consolas, monospace" font-size="16" fill="#88c0d0">Full-Stack &amp; AI Engineer</text>
 </svg>
