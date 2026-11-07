@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="koi-pond.svg" alt="Koi swimming in a pond" width="100%" />
-</div>
+
 <h1 align="center">Ahmed Amine Bouhlel</h1>
 
 
