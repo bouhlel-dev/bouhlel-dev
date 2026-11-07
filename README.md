@@ -24,6 +24,12 @@
 - 🐧 I use Arch, btw
 - 🗣️ I speak 4 languages, btw
 - ☕ Cups of coffee: `573`
+## Connect
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/ahmed-amine-bouhlel"><img src="https://img.shields.io/badge/LinkedIn-5e81ac?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://ameendev.42web.io"><img src="https://img.shields.io/badge/Portfolio-88c0d0?style=for-the-badge&logo=firefox-browser&logoColor=2e3440" alt="Portfolio" /></a>
+</div>
 
 ## Tech Stack
 
@@ -38,11 +44,6 @@
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bouhlel-dev&theme=nord_dark" alt="Top languages" />
 </div>
 
-## Connect
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/ahmed-amine-bouhlel"><img src="https://img.shields.io/badge/LinkedIn-5e81ac?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://ameendev.42web.io"><img src="https://img.shields.io/badge/Portfolio-88c0d0?style=for-the-badge&logo=firefox-browser&logoColor=2e3440" alt="Portfolio" /></a>
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:88c0d0,100:5e81ac&height=100&section=footer" width="100%" alt="footer" />
